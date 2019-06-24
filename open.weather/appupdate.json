@@ -1,0 +1,13 @@
+﻿{
+    "error": false,
+    "results":
+        {
+            "app": "天气",
+            "versionCode": 1,
+            "versionName": "1.0.0",
+	        "updateTime": "2019-06-24",
+            "information": "",
+            "foreUpdate": false,
+            "url":""
+        }
+}
